@@ -1,5 +1,7 @@
 ポップアップのViewControllerをいい感じに表示したい
 
+[](http://i.gyazo.com/9b3e1a4ec31a12ce8626f62187682aca.gif)
+
 
 # UIViewController+PopupWithAnimation
 
